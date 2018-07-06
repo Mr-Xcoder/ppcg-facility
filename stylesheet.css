@@ -92,8 +92,7 @@ a:active {
   text-decoration: none;
 }
 
-.menu a:hover,
-a:active {
+.menu a:hover {
   color: #b1b1b1;
 }
 
