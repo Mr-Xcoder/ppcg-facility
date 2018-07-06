@@ -1,1 +1,3 @@
-# ppcg-facility
+# The PPCG Facility
+
+Welcome to the PPCG Facility! This place aims to enchance your challenge and answer writing experience on [Programming Puzzles & Code Golf Stack Exchange](https://codegolf.stackexchange.com/questions), by helping you format test cases, generating explanation templates and many more! If you spot bugs or want to contribute or suggest improvements, either leave a message in [The Nineteenth Byte](https://chat.stackexchange.com/rooms/240/the-nineteenth-byte) (pinging `@Mr.Xcoder`), or open an [issue](https://github.com/Mr-Xcoder/ppcg-facility/issues) or a [pull request](https://github.com/Mr-Xcoder/ppcg-facility/pulls).
